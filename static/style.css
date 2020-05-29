@@ -48,3 +48,8 @@ h1{
     margin: auto;
     border-radius: 15px;
   }
+
+  .footer{
+    text-align: center;
+    color: black;
+  }
